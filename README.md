@@ -11,3 +11,5 @@ Listado de componentes:
 + Read data from json
 + Convert json to Map
 + Future Builder
++ Get icon Utils
++ Routing to new page
