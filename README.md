@@ -14,3 +14,4 @@ Listado de componentes:
 + Get icon Utils
 + Routing to new page
 + Routing with name
++ Router file and dynamic routes
