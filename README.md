@@ -8,3 +8,4 @@ Listado de componentes:
 + ListTiles
 + Maps
 + HomePage
++ Read data from json
