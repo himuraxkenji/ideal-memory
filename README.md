@@ -9,3 +9,4 @@ Listado de componentes:
 + Maps
 + HomePage
 + Read data from json
++ Convert json to Map
