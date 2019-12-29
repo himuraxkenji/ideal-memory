@@ -16,3 +16,4 @@ Listado de componentes:
 + Routing with name
 + Router file and dynamic routes
 + Card Widget
++ Card Image
