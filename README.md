@@ -15,3 +15,4 @@ Listado de componentes:
 + Routing to new page
 + Routing with name
 + Router file and dynamic routes
++ Card Widget
