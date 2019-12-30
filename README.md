@@ -20,3 +20,4 @@ Listado de componentes:
 + Card Container
 + Alert Widget
 + Avatar Widget
++ Animated Container
