@@ -21,3 +21,4 @@ Listado de componentes:
 + Alert Widget
 + Avatar Widget
 + Animated Container
++ Inputs
