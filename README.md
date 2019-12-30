@@ -18,3 +18,5 @@ Listado de componentes:
 + Card Widget
 + Card Image
 + Card Container
++ Alert Widget
++ Avatar Widget
