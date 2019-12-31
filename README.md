@@ -26,3 +26,6 @@ Listado de componentes:
 + Password
 + Datepicker
 + Dropdown
++ Sliders
++ Checkbox
++ Switch
