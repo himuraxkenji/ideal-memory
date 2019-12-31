@@ -22,3 +22,6 @@ Listado de componentes:
 + Avatar Widget
 + Animated Container
 + Inputs
++ Email
++ Password
++ Datepicker
