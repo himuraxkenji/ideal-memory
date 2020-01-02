@@ -29,3 +29,5 @@ Listado de componentes:
 + Sliders
 + Checkbox
 + Switch
++ Listview Builder
++ Infinite Scroll
