@@ -31,3 +31,4 @@ Listado de componentes:
 + Switch
 + Listview Builder
 + Infinite Scroll
++ Infinite Scroll with futures
